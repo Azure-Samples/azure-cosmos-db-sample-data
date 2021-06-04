@@ -8,7 +8,7 @@ description: "This repository hosts sample data used by Azure Cosmos DB document
 urlFragment: azure-cosmos-db-sample-data
 ---
 
-# Azure CosmosDB Sample Data
+# Azure CosmosDB sample data
 
 This repository hosts sample data used by Azure Cosmos DB documentation. This sample data is referenced in Azure Cosmos DB code samples
 
